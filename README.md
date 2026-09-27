@@ -1,9 +1,8 @@
 <p align="center">
   <a href="https://github.com/Jael-Lois">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=168fda&fontSize=54&height=90&width=1200&text=Hi%2C%20I'm%20Jael%20%E2%80%94%20Developer%20%26%20Open%20Source%20Contributor" alt="Hi, I&#39;m Jael — Developer &amp; Open Source Contributor" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=168fda&fontSize=54&height=90&width=1200&text=Hi%2C%20I'm%20Jael%20%E2%80%94%20Developer%20%26%20Open%20Source%20Contributor" alt="Hi, I'm Jael — Developer & Open Source Contributor" />
   </a>
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=790&height=44&lines=Building%20efficient%20systems%20%26%20exploring%20open%20source;Passionate%20about%20C%2C%20Python%2C%20and%20Blender" alt="Typing headlines" />
 </p>
