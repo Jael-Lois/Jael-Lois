@@ -51,3 +51,4 @@ Student developer interested in low-level programming, open-source projects, and
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/Jael-Lois">Jael-Lois</a></i></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:168fda,50:56d4dd,100:168fda&height=120&section=footer" width="100%" />
